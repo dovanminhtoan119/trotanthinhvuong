@@ -1,0 +1,11 @@
+{
+  "name": "Tro Tàn Thịnh Vượng",
+  "short_name": "Tro Tàn",
+  "description": "Game xây dựng thành phố hậu tận thế dạng text có minh họa.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17181a",
+  "theme_color": "#17181a",
+  "lang": "vi",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

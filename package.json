@@ -1,0 +1,11 @@
+{
+  "name": "tro-tan-thinh-vuong",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Game xây dựng thành phố hậu tận thế dạng text, lưu local.",
+  "scripts": {
+    "test": "node test/sim.mjs 40 && node test/heat.mjs > /dev/null",
+    "start": "python3 -m http.server 8000"
+  }
+}
